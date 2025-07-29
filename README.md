@@ -59,11 +59,9 @@ Based on the selected style, resume, and job listing, the app generates a person
 ## 5. Deployment
 
 
-- **Other cloud platforms:**
-  - Deploy on Heroku, AWS, Azure, or GCP by running `streamlit run app.py` as your web process
+- https://coverletterllm.pranj.dev/
 
-- **Local deployment:**
-  - Run the app on your own machine and share the local URL
+
 
 ## 6. Screenshots
 
